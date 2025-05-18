@@ -1,1 +1,3 @@
 # Design-and-Implementation-of-a-Series-Elastic-Actuated-Kangaroo-Robot-Leg
+
+### This project explores the evolution of robotics from rigid, precise mechanisms to compliant systems capable of safe and adaptive interaction. A key focus was the design and testing of a Series Elastic Actuator (SEA), specifically the UT-SEA with an RFSEA configuration. By integrating passive compliance through spring elements, the actuator achieved high back-drivability, shock resistance, and energy efficiency. While the actuator performed well during testing, further refinement is needed to optimize the leg’s motion path for improved performance.
